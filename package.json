@@ -1,0 +1,22 @@
+{
+  "name": "server-app-with-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomani113/server-app-with-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomani113/server-app-with-todo/issues"
+  },
+  "homepage": "https://github.com/nomani113/server-app-with-todo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
